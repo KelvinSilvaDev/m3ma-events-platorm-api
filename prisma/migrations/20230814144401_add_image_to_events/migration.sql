@@ -1,2 +1,3 @@
 -- AlterTable
-ALTER TABLE `event` ADD COLUMN `image` VARCHAR(191) NULL;
+ALTER TABLE `Event` ADD COLUMN `image` VARCHAR(191) NULL;
+
